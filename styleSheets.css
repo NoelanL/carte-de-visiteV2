@@ -1,0 +1,161 @@
+body
+{
+    background-size: cover;
+    margin: 0;
+    background-color: black;
+    font-family: Candara;
+}
+
+#carte-visite
+{
+    margin: 8%;
+    background-color: #002d3d;
+    height: 750px;
+}
+
+#div-left
+{
+    display: inline-block;
+    height: 750px;
+    width: 40%;
+    background-color: white;
+    position: relative;
+    bottom: 752px;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+#photo
+{
+    position: relative;
+    text-align: center;
+    top: 140px;
+}
+
+#nom-entreprise
+{
+    font-size: 50px;
+    font-weight: bold;
+    color: #002d3d;
+}
+
+span
+{
+    color: #fd7400;
+}
+
+#slogan
+{
+    font-size: 20px;
+    color: #002d3d;
+}
+
+#top-orange
+{
+    display: block;
+    height: 375px;
+    width: 42%;
+    background-color: #fd7400;
+    border-bottom-right-radius: 100%;
+}
+
+#bottom-orange
+{
+    display: block;
+    height: 375px;
+    width: 42%;
+    background-color: #fd7400;
+    border-top-right-radius: 100%;
+}
+
+.logo
+{
+    display: inline-block;
+    position: relative;
+    bottom: 670px;
+    left: 10%;
+}
+
+.fa-user
+{
+    display: inline-block;
+    font-size: 100px;
+    color: #fd7400;
+}
+
+.fa-phone-alt
+{
+    display: inline-block;
+    font-size: 50px;
+    color: white;
+}
+
+.fa-envelope
+{
+    display: inline-block;
+    font-size: 50px;
+    color: white;
+}
+
+.fa-map-marker-alt
+{
+    display: inline-block;
+    font-size: 50px;
+    color: white;
+}
+
+.logo p
+{
+    padding: 35px;
+}
+
+#nom-prenom
+{
+    color: white;
+    display: inline-block;
+    position: relative;
+    bottom: 1080px;
+    left: 170px;
+}
+
+#prenom
+{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#dev
+{
+    color: #fd7400;
+    font-size: 20px;
+}
+
+#telephone
+{
+    color: white;
+    display: inline-block;
+    position: relative;
+    font-size: 25px;
+    bottom: 930px;
+    right: 140px;
+}
+
+#courrier
+{
+    color: white;
+    display: inline-block;
+    position: relative;
+    font-size: 25px;
+    bottom: 790px;
+    right: 315px;
+}
+
+#endroit
+{
+    color: white;
+    display: inline-block;
+    position: relative;
+    font-size: 25px;
+    bottom: 960px;
+    left: 970px;
+}
